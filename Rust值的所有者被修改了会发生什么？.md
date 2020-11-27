@@ -2,7 +2,7 @@
 
 写C++的时候，指针都在明面上。到了Rust，指针在很多场合都藏了起来。但遗憾的是，它们并不是真的想被遗忘掉，而是在和你躲猫猫，最终你不得不把它们揪出来，游戏才能继续。
 
-![](D:\Writing\技术专栏\Rust\img\cat-hiding-under-rug.jpg)
+![](.\img\cat-hiding-under-rug.jpg)
 
 ## 1. 所有者被修改了会发生什么？
 

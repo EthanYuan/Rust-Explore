@@ -2,7 +2,7 @@
 
 学习Rust最好的方法，是和其他主流语言，比如Java、Python进行对比学习。不然怎么能get到它的特别呢？
 
-![](D:\Writing\技术专栏\Rust\img\special.png)
+![](.\img\special.png)
 
 ## 1. 主流模式：try-catch-finally
 
@@ -123,7 +123,7 @@ fn main() -> std::io::Result<()> {
 
 看File结构，同一个句柄handle，但是path前后却发生了变化，文件都进回收站了，照样写你！
 
-![](D:\Writing\技术专栏\Rust\img\panic.png)
+![](.\img\panic.png)
 
 ## 3. Rust的返回值Result
 

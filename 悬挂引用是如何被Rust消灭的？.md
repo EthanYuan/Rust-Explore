@@ -1,6 +1,6 @@
 # 悬挂引用是如何被Rust消灭的？
 
-![](D:\Writing\技术专栏\Rust\img\introducing-the-rust-borrow-checker.png)
+![](.\img\introducing-the-rust-borrow-checker.png)
 
 **Rust承诺：引用始终有效**。
 
@@ -26,7 +26,7 @@ fn calculate_length(s: &String) -> usize {
 
 上面代码里，堆上有一个String“hello”，在栈上有对应其所有权变量s1，以及一个临时的引用借用s。代码内存模型如下：
 
-![&String s pointing at String s1](D:\Writing\技术专栏\Rust\img\ref.svg)
+![&String s pointing at String s1](.\img\ref.svg)
 
 s和s1，是两种不同的类型，可以用下面的代码把类型打印来看。之所以s和s1用起来没差别，是因为引用s能自动解引用。
 
@@ -44,7 +44,7 @@ fn main() {
 }
 ```
 
-![type](D:\Writing\技术专栏\Rust\img\type.png)
+![type](.\img\type.png)
 
 ## 二 悬挂引用问题
 
@@ -56,7 +56,7 @@ fn main() {
 
 在Rust里，由于没有空值Null，所以并没有空引用问题；编译期进行初始化检查，所以也没有野引用问题。那么再看悬挂，Rust是否存在下面这种场景：当`s1`通过赋值将所有权转移给`s2`，`s`变成悬挂引用？
 
-![Dangling](D:\Writing\技术专栏\Rust\img\Dangling.png)
+![Dangling](.\img\Dangling.png)
 
 答案是：不会。
 

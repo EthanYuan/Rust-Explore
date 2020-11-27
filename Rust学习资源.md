@@ -1,5 +1,7 @@
 # Rust学习资源
 
+![](.\img\learn_rust_now.png)
+
 ## 出版书籍
 
 - 《[The Rust Programming Language](https://doc.rust-lang.org/stable/book/#the-rust-programming-language)》，Steve Klabnik and Carol Nichols，[中文版](https://kaisery.github.io/trpl-zh-cn/)
