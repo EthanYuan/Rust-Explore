@@ -1,6 +1,6 @@
 # 为什么Rust的println!不会发生所有权转移？
 
-![Rust macro](.\img\macro.png)
+![Rust macro](img/macro.png)
 
 `println!`可能是学习Rust最常用的一行代码了。我们连续多次调用它，下面的代码编译通过，再正常不过了。
 

@@ -1,6 +1,6 @@
 # 悬挂引用是如何被Rust消灭的？
 
-![](.\img\introducing-the-rust-borrow-checker.png)
+![](img/introducing-the-rust-borrow-checker.png)
 
 **Rust承诺：引用始终有效**。
 
@@ -26,7 +26,7 @@ fn calculate_length(s: &String) -> usize {
 
 上面代码里，堆上有一个String“hello”，在栈上有对应其所有权变量s1，以及一个临时的引用借用s。代码内存模型如下：
 
-![&String s pointing at String s1](.\img\ref.svg)
+![&String s pointing at String s1](img/ref.svg)
 
 s和s1，是两种不同的类型，可以用下面的代码把类型打印来看。之所以s和s1用起来没差别，是因为引用s能自动解引用。
 
@@ -44,7 +44,7 @@ fn main() {
 }
 ```
 
-![type](.\img\type.png)
+![type](img/type.png)
 
 ## 二 悬挂引用问题
 

@@ -1,6 +1,6 @@
 # Rust学习资源
 
-![](.\img\learn_rust_now.png)
+![](img/learn_rust_now.png)
 
 ## 出版书籍
 

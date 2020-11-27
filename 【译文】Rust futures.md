@@ -1,6 +1,6 @@
 # 【译文】Rust futures: async fn中的thread::sleep和阻塞调用 
 
-![async](./img/async.jpeg)
+![async](img/async.jpeg)
 
 > 原文：[Rust futures: thread::sleep and blocking calls inside async fn](https://blog.hwc.io/posts/rust-futures-threadsleep-and-blocking-calls-inside-async-fn/)
 >

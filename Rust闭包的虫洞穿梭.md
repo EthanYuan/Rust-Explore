@@ -1,6 +1,6 @@
 # Rust闭包的虫洞穿梭
 
-![](.\img\closure.jpg)
+![](img/closure.jpg)
 
 ## 1. 闭包是什么
 
@@ -43,7 +43,7 @@ fn main() {
 
 首先，闭包作为匿名函数存在了`print_info_closure`栈变量中，然后传递给了函数`display`作为参数，在`display`内部调用了闭包，并传递了参数`age`。最后神奇的事情出现了：在函数`display`中调用的闭包居然打印出了函数`main`作用域中的变量`name`。
 
-![](.\img\wormhole_feat.jpg)
+![](img/wormhole_feat.jpg)
 
 **闭包的精髓，就在于它同时涉及两个作用域**，就仿佛打开了一个"虫洞"，让不同作用域的变量穿梭其中。
 
