@@ -24,6 +24,7 @@
 - [Async programming in Rust with async-std](https://book.async.rs/)，[async-std 中文文档](https://learnku.com/docs/rust-async-std/)
 - [The Rust RFC Book](https://rust-lang.github.io/rfcs/)
 - [The Edition Guide](https://doc.rust-lang.org/nightly/edition-guide/)
+- [The Rust Unstable Book](https://doc.rust-lang.org/beta/unstable-book/)
 
 **武器库**
 
