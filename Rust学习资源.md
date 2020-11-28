@@ -22,6 +22,8 @@
 - [The Rust Reference](https://doc.rust-lang.org/stable/reference/)，[中文版](https://minstrel1977.gitee.io/rust-reference/)
 - [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)，[Rust 异步编程](https://learnku.com/docs/async-book/2018)
 - [Async programming in Rust with async-std](https://book.async.rs/)，[async-std 中文文档](https://learnku.com/docs/rust-async-std/)
+- [The Rust RFC Book](https://rust-lang.github.io/rfcs/)
+- [The Edition Guide](https://doc.rust-lang.org/nightly/edition-guide/)
 
 **武器库**
 
