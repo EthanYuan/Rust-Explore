@@ -18,6 +18,7 @@
 
 - [Rust官网](https://www.rust-lang.org/zh-CN/)
 - [The Rust Standard Library](https://doc.rust-lang.org/std/index.html)
+- [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
 - [The Rustonomicon](https://doc.rust-lang.org/nomicon/)，[死灵书](http://120.78.128.153/rustonomicon/)
 - [The Rust Reference](https://doc.rust-lang.org/stable/reference/)，[中文版](https://minstrel1977.gitee.io/rust-reference/)
 - [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)，[Rust 异步编程](https://learnku.com/docs/async-book/2018)
