@@ -1,4 +1,8 @@
-# 文档
+# Rust API 指南：文档
+
+![](img/Art-shipping-crate.jpg)
+
+> 原文：[Rust API Guidelines chapter 4](https://rust-lang.github.io/api-guidelines/documentation.html#rustdoc-does-not-show-unhelpful-implementation-details-c-hidden)
 
 ### Crate级别的文档应非常详尽，并包含示例（C-CRATE-DOC）
 
