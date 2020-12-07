@@ -26,6 +26,7 @@
 - [The Rust RFC Book](https://rust-lang.github.io/rfcs/)
 - [The Edition Guide](https://doc.rust-lang.org/nightly/edition-guide/)
 - [The Rust Unstable Book](https://doc.rust-lang.org/beta/unstable-book/)
+- [Rust API Guidelines](https://link.zhihu.com/?target=https%3A//rust-lang.github.io/api-guidelines/about.html)
 
 **武器库**
 
