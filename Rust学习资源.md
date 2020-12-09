@@ -48,6 +48,7 @@
 **常用箱**
 
 - [Tokio](https://github.com/tokio-rs/tokio)，10.2k stars，async programming engine
+- [clap](https://github.com/clap-rs/clap)，5.1k stars，Command Line Argument Parser for Rust
 - [Serde](https://github.com/serde-rs/serde)，3.7k stars，Serialization/Deserialization library
 - [StructOpt](https://github.com/TeXitoi/structopt)，1.8k stars，Parse command line arguments by defining a struct
 - [Regex](https://github.com/rust-lang/regex)，1.7k stars，regular expressions
