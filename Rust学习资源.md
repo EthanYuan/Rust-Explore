@@ -12,9 +12,9 @@
 - 《Rust编程之道》，张汉东，[豆瓣门](https://book.douban.com/subject/30418895/)
 - 《深入浅出Rust》，范长春，[豆瓣门](https://book.douban.com/subject/30312231/)
 
-## 在线文档
+## 语言学习
 
-**官方**
+**文档**
 
 - [Rust官网](https://www.rust-lang.org/zh-CN/)
 - [The Rust Standard Library](https://doc.rust-lang.org/std/index.html)
@@ -27,12 +27,6 @@
 - [The Edition Guide](https://doc.rust-lang.org/nightly/edition-guide/)
 - [The Rust Unstable Book](https://doc.rust-lang.org/beta/unstable-book/)
 - [Rust API Guidelines](https://link.zhihu.com/?target=https%3A//rust-lang.github.io/api-guidelines/about.html)
-
-**武器库**
-
-- [Crates.io](https://crates.io/)
-- [Lib.rs](https://lib.rs/)，Lib.rs is a catalog of programs and libraries written in Rust.
-- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)，[中文版](https://rust-cookbook.budshome.com/)，[Rust烹饪书](http://llever.com/rust-cookbook-zh/)
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
 
 **练习**
@@ -43,16 +37,23 @@
 - [Rust Language Cheat Sheet](https://cheats.rs/)
 - [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 
-## 需要知道的第三方库
+## 轮子
 
-- [Tokio](https://github.com/tokio-rs/tokio)，async programming engine
-- [Serde](https://github.com/serde-rs/serde)，Serialization/Deserialization library
-- [Regex](https://github.com/rust-lang/regex)，regular expressions
-- [Bitflags]( https://github.com/bitflags/bitflags) ，Structs that are just a series of bits
-- [Rand](https://github.com/rust-random/rand)，random number generation
-- [winapi ](https://github.com/retep998/winapi-rs)，bindings for windows APIs
+**食谱**
 
-## 视频
+- [Crates.io](https://crates.io/)
+- [Lib.rs](https://lib.rs/)，Lib.rs is a catalog of programs and libraries written in Rust.
+- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)，[中文版](https://rust-cookbook.budshome.com/)，[Rust烹饪书](http://llever.com/rust-cookbook-zh/)
+
+**常用箱**
+
+- [Tokio](https://github.com/tokio-rs/tokio)，10.2k stars，async programming engine
+- [Serde](https://github.com/serde-rs/serde)，3.7k stars，Serialization/Deserialization library
+- [StructOpt](https://github.com/TeXitoi/structopt)，1.8k stars，Parse command line arguments by defining a struct
+- [Regex](https://github.com/rust-lang/regex)，1.7k stars，regular expressions
+- [winapi-rs](https://github.com/retep998/winapi-rs)，1.1k stars，bindings for windows APIs
+
+## 视频资源
 
 - [Rust唠嗑室][https://space.bilibili.com/25566598?spm_id_from=333.788.b_765f7570696e666f.2]，B站，MikeTang84
 - [张汉东的Rust实战课:带你完整构建一个异步Web框架](https://time.geekbang.org/course/intro/100060601)，极客时间
