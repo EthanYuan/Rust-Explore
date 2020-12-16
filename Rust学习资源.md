@@ -21,13 +21,17 @@
 - [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
 - [The Rustonomicon](https://doc.rust-lang.org/nomicon/)，[死灵书](http://120.78.128.153/rustonomicon/)
 - [The Rust Reference](https://doc.rust-lang.org/stable/reference/)，[中文版](https://minstrel1977.gitee.io/rust-reference/)
-- [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)，[Rust 异步编程](https://learnku.com/docs/async-book/2018)
-- [Async programming in Rust with async-std](https://book.async.rs/)，[async-std 中文文档](https://learnku.com/docs/rust-async-std/)
 - [The Rust RFC Book](https://rust-lang.github.io/rfcs/)
 - [The Edition Guide](https://doc.rust-lang.org/nightly/edition-guide/)
 - [The Rust Unstable Book](https://doc.rust-lang.org/beta/unstable-book/)
 - [Rust API Guidelines](https://link.zhihu.com/?target=https%3A//rust-lang.github.io/api-guidelines/about.html)
-- [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
+- [The Rust Performance Book](https://nnethercote.github.io/perf-book/) 
+
+**异步**
+
+- [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)，[Rust 异步编程](https://learnku.com/docs/async-book/2018)
+- [Async programming in Rust with async-std](https://book.async.rs/)，[async-std 中文文档](https://learnku.com/docs/rust-async-std/)
+- [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/introduction.html)，[200行代码讲透RUST FUTURES](https://stevenbai.top/rust/futures_explained_in_200_lines_of_rust/)
 
 **练习**
 
