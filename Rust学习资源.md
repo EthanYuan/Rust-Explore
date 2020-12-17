@@ -5,33 +5,41 @@
 ## 出版书籍
 
 - 《[The Rust Programming Language](https://doc.rust-lang.org/stable/book/#the-rust-programming-language)》，Steve Klabnik and Carol Nichols，[中文版](https://kaisery.github.io/trpl-zh-cn/)
-
 - 《Programming Rust》，Jim Blandy and Jason Orendorff，[中文版豆瓣门](https://book.douban.com/subject/35217097/)
 - 《[Zero To Production In Rust](https://www.zero2prod.com/)》
-
 - 《Rust编程之道》，张汉东，[豆瓣门](https://book.douban.com/subject/30418895/)
-- 《深入浅出Rust》，范长春，[豆瓣门](https://book.douban.com/subject/30312231/)
+- 《深入浅出Rust》，范长春，[豆瓣门](https://book.douban.com/subject/30312231/) 
+- [Begin Rust](https://www.beginrust.com/sample/beginrust.html)
 
 ## 语言学习
 
-**文档**
+**语言**
 
 - [Rust官网](https://www.rust-lang.org/zh-CN/)
 - [The Rust Standard Library](https://doc.rust-lang.org/std/index.html)
-- [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
 - [The Rustonomicon](https://doc.rust-lang.org/nomicon/)，[死灵书](http://120.78.128.153/rustonomicon/)
 - [The Rust Reference](https://doc.rust-lang.org/stable/reference/)，[中文版](https://minstrel1977.gitee.io/rust-reference/)
 - [The Rust RFC Book](https://rust-lang.github.io/rfcs/)
 - [The Edition Guide](https://doc.rust-lang.org/nightly/edition-guide/)
 - [The Rust Unstable Book](https://doc.rust-lang.org/beta/unstable-book/)
-- [Rust API Guidelines](https://link.zhihu.com/?target=https%3A//rust-lang.github.io/api-guidelines/about.html)
+- [Rust API Guidelines](https://link.zhihu.com/?target=https%3A//rust-lang.github.io/api-guidelines/about.html) 
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/) 
+- [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
 
-**异步**
+**主题：异步**
 
-- [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)，[Rust 异步编程](https://learnku.com/docs/async-book/2018)
+- [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)，[Rust 异步编程](http://tutzip.com/tut/rust-async-cn/)
 - [Async programming in Rust with async-std](https://book.async.rs/)，[async-std 中文文档](https://learnku.com/docs/rust-async-std/)
 - [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/introduction.html)，[200行代码讲透RUST FUTURES](https://stevenbai.top/rust/futures_explained_in_200_lines_of_rust/)
+- [A primer to Rust Async](https://omarabid.com/async-rust)，[Rust 异步入门](https://rustcc.cn/article?id=0117ce5f-2c89-49bf-8b06-82bf66acf936)
+- [The Future With Futures](https://asquera.de/blog/2017-03-01/the-future-with-futures/)
+- [Rust's Journey to Async/await](https://www.infoq.com/presentations/rust-2019/)
+- [rust异步编程](https://www.rectcircle.cn/posts/rust%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B/)
+- [Rust之异步入门](https://juejin.cn/post/6875948465055072263)
+
+**主题：WebAssembly**
+
+- [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)，[Rust and WebAssembly](http://tutzip.com/tut/rustwasm/)
 
 **练习**
 
@@ -41,7 +49,7 @@
 - [Rust Language Cheat Sheet](https://cheats.rs/)
 - [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 
-## 轮子
+## 板条箱
 
 **食谱**
 
@@ -71,3 +79,8 @@
 - [The official users forum](https://users.rust-lang.org/)
 - [This Week in Rust](https://this-week-in-rust.org/)
 
+## 博客
+
+- [Without boats, dreams dry up](https://without.boats/)
+
+- [THE ABOMINABLE SNOYMAN](https://www.snoyman.com/)
