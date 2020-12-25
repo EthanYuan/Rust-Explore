@@ -38,7 +38,8 @@
 - [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/introduction.html)，[200行代码讲透RUST FUTURES](https://stevenbai.top/rust/futures_explained_in_200_lines_of_rust/)
 - [A primer to Rust Async](https://omarabid.com/async-rust)，[Rust 异步入门](https://rustcc.cn/article?id=0117ce5f-2c89-49bf-8b06-82bf66acf936)
 - [The Future With Futures](https://asquera.de/blog/2017-03-01/the-future-with-futures/)
-- [Rust's Journey to Async/await](https://www.infoq.com/presentations/rust-2019/)
+- [Rust's Journey to Async/await](https://www.infoq.com/presentations/rust-2019/) 
+- [Asynchronous Programming in Rust](https://www.section.io/engineering-education/asynchronous-programming-in-rust/)([Zack Jorquera](https://www.section.io/engineering-education/authors/zack-jorquera/))
 - [rust异步编程](https://www.rectcircle.cn/posts/rust%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B/)
 - [Rust之异步入门](https://juejin.cn/post/6875948465055072263) 
 - [Epoll, Kqueue and IOCP Explained with Rust](https://cfsamsonbooks.gitbook.io/epoll-kqueue-iocp-explained/)
@@ -46,7 +47,7 @@
 
 **主题：WebAssembly**
 
-- [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)，[Rust and WebAssembly](http://tutzip.com/tut/rustwasm/)
+- [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)，[Rust和WebAssembly](http://tutzip.com/tut/rustwasm/)
 
 **练习**
 
