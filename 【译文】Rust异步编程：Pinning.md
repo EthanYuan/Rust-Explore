@@ -1,6 +1,6 @@
 # Rust异步编程： Pinning
 
-![](\img\pinned-tweet.jpg)
+![](img/pinned-tweet.jpg)
 
 原文：[选自《Rust异步编程》第4章 Pinning](https://rust-lang.github.io/async-book/04_pinning/01_chapter.html#pinning-in-detail) 
 
