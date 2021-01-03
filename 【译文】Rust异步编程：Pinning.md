@@ -304,7 +304,7 @@ execute_unpin_future(fut); // OK
 
 1. 如果是`T:Unpin`（这是默认设置），则`Pin <'a, T>`完全等于`&'a mut T`。换句话说：`Unpin`表示即使固定了此类型也可以移动，因此`Pin`将对这种类型没有影响。
 
-2. 如果是`T:!Unpin`，将`&mut T`变成固定的T需要unsafe。
+2. 如果是`T:!Unpin`，获得已固定T的`&mut T`需要unsafe。
 
 3. 大多数标准库类型都实现了`Unpin`。对于您在Rust中遇到的大多数“常规”类型也是如此。由async / await生成的`Future`是此规则的例外。
 
