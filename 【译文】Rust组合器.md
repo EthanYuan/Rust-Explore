@@ -1,6 +1,6 @@
 ## Rust组合器
 
-![](img\Combinator.png)
+![](img/Combinator.png)
 
 原文：[Learning Rust Error Handling Combinators](https://learning-rust.github.io/docs/e6.combinators.html)
 
