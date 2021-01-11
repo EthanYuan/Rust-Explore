@@ -1,4 +1,4 @@
-# Rust API 指南：文档
+# Rust API 指南：如何写文档
 
 ![](img/Art-shipping-crate.jpg)
 
