@@ -13,7 +13,7 @@
 
 Speaker: Wu Aoxiang ([吴翱翔](https://github.com/pymongo))
 
-视频：[Day2](https://live.csdn.net/room/u012067469/51UUkkjG) ，03:54:00~04:20:00
+[视频](https://www.bilibili.com/video/BV1Yy4y1e7zR?p=27) [PDF](https://github.com/rustcc/RustChinaConf2020/blob/master/rustchinaconf2020/RustChinaConf2020-27.%E5%90%B4%E7%BF%B1%E7%BF%94-%E3%80%8A%E6%B5%85%E8%B0%88Rust%E5%9C%A8%E7%AE%97%E6%B3%95%E9%A2%98%E5%92%8C%E7%AB%9E%E8%B5%9B%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%8B.pdf)
 
 ### 1 [std::iter::Iterator::peekable](https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.peekable)
 
